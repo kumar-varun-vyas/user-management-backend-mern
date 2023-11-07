@@ -1,0 +1,11 @@
+FirstName,LasttName,Email,Mobile,Gender,Status,Location,Profile,DateCreated,DateUpdated
+varun,vyas,varun@gmail.com,1234567890,Female,Inactive,Jaipur,image-1699092070103-digital-art.jpg,Sun Oct 29 2023 12:52:03 GMT+0530 (India Standard Time),Sun Nov 05 2023 19:00:03 GMT+0530 (India Standard Time)
+viki,vvv,varun1@gmail.com,1234567890,Female,Inactive,bikaner,image-1698721487411-woman-8021288_640.webp,Tue Oct 31 2023 08:34:47 GMT+0530 (India Standard Time),Sun Nov 05 2023 19:06:05 GMT+0530 (India Standard Time)
+monu,vyas,varun2@gmail.com,1234567899,Male,Active,local,image-1699093073402-elephant.webp,Thu Nov 02 2023 08:31:43 GMT+0530 (India Standard Time),Sun Nov 05 2023 17:00:15 GMT+0530 (India Standard Time)
+-,-,-,-,-,-,-,-,-,-
+sandeep,vyas,sandeep@gmail.com,1122334444,Male,Active,jaipur,image-1699375047472-steam-train.jpg,Tue Nov 07 2023 22:07:27 GMT+0530 (India Standard Time),Tue Nov 07 2023 22:07:27 GMT+0530 (India Standard Time)
+abhishek,vyas,abhishek@gmail.com,2221113333,Male,Active,dausa,image-1699375102439-sea.jpg,Tue Nov 07 2023 22:08:22 GMT+0530 (India Standard Time),Tue Nov 07 2023 22:08:22 GMT+0530 (India Standard Time)
+chintu,vyas,chintu@gmail.com,3332222111,Male,Inactive,Dehli,image-1699375171605-classic.jpg,Tue Nov 07 2023 22:09:31 GMT+0530 (India Standard Time),Tue Nov 07 2023 22:09:31 GMT+0530 (India Standard Time)
+Sanju,vyas,sanju@gmail.com,3213213211,Male,Active,Nagaur,image-1699375271042-time.jpg,Tue Nov 07 2023 22:11:11 GMT+0530 (India Standard Time),Tue Nov 07 2023 22:11:11 GMT+0530 (India Standard Time)
+Pinku,vyas,pinku@gmail.com,1231233211,Male,Inactive,jaipur,image-1699375339375-sky-7993656_640.webp,Tue Nov 07 2023 22:12:19 GMT+0530 (India Standard Time),Tue Nov 07 2023 22:12:27 GMT+0530 (India Standard Time)
+satyam,vyas,satyam@gmail.com,4321432112,Male,Inactive,Bikaner,image-1699377001903-circuit-board.webp,Tue Nov 07 2023 22:40:01 GMT+0530 (India Standard Time),Tue Nov 07 2023 22:40:01 GMT+0530 (India Standard Time)
